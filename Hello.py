@@ -6,6 +6,8 @@ prog = input ("Enter Your Program Of Study:")
 hostel = input ("Enter Your Hostel:")
 contact =int (input("Enter Your Contact Number:"))
 height = float(input("Enter Your Height"))
+
+
 print ("_________________________STUDENT PROFILE_________________________")
 print("Hello there!")
 print("NAME: "+name)
